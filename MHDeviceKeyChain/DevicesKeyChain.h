@@ -13,6 +13,10 @@
  */
 #import <Foundation/Foundation.h>
 
+// 定义服务名,以及应用名
+#define SERVIVENAME @"blog.csdn.net/macro_13" // 通常去公司的官网
+#define KEYNAME @"DevicesKeyChain" // App的包名
+
 
 /*!
  *  @author Macro QQ:778165728, 15-07-06

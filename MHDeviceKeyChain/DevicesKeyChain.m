@@ -8,10 +8,6 @@
 
 #import "DevicesKeyChain.h"
 
-#define SERVIVENAME @"com.oeffect.ksudi"
-#define KEYNAME @"ksudi"
-
-
 @implementation DevicesKeyChain
 
 // 单例获取模拟设备号
